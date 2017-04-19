@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "PTSansBold"; /* Гарнитура шрифта */
+    src: url("../libs/bootstrap-3.3.7/fonts/PTS75F.ttf"); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "PTSansRegular"; /* Гарнитура шрифта */
+    src: url("../libs/bootstrap-3.3.7/fonts/PTS55F.ttf"); /* Путь к файлу со шрифтом */
+   }
